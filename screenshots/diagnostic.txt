@@ -1,0 +1,20 @@
+01-16 10:37:44.781 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onCreate event fired
+01-16 10:37:44.781 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onStart event fired
+01-16 10:37:44.782 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onResume event fired
+01-16 10:38:10.351 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onPause event fired
+01-16 10:38:10.887 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onStop event fired
+01-16 10:38:10.887 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onDestroy event fired
+01-16 10:38:10.887 24804-24804/activityspy.ethanm4.washington.edu.activityspy W/MyActivity: We're going down, Captain!
+
+01-16 10:38:12.388 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onCreate event fired
+01-16 10:38:12.388 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onStart event fired
+01-16 10:38:12.389 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onResume event fired
+01-16 10:38:16.467 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onPause event fired
+01-16 10:38:16.560 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onStop event fired
+01-16 10:38:21.306 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onRestart event fired
+01-16 10:38:21.307 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onStart event fired
+01-16 10:38:21.307 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onResume event fired
+01-16 10:39:25.857 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onPause event fired
+01-16 10:39:26.416 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onStop event fired
+01-16 10:39:26.416 24804-24804/activityspy.ethanm4.washington.edu.activityspy D/MyActivity: onDestroy event fired
+01-16 10:39:26.416 24804-24804/activityspy.ethanm4.washington.edu.activityspy W/MyActivity: We're going down, Captain!
